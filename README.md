@@ -89,3 +89,5 @@ After the simulation ends, choose either [1] Start Over, or [2] Exit.
 ## Conclusion
 
 The system effectively simulates car movements with collision detection. For future improvement, we may consider including a better UI, additional commands (e.g., B - move backward) and enhanced logging.
+
+test
